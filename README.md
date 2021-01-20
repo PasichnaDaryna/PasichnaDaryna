@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 This «thing» is under construction... 🎨
 
-i there, I'm Darina👋
+### Hi there 👋, I'm Darina
 
 🔭 I’m currently working on a lot of different stuff
 

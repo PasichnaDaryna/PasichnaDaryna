@@ -13,3 +13,7 @@ This «thing» is under construction... 🎨
 📫 How to reach me: pasichnadaryna@gmail.com
 
 ⚡ Fun fact: I used to write poems some time ago
+
+
+Things I code with 👩‍💻
+ ⚛️React   Redux  JS Sass CSS Git NPM HTML5  

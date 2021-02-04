@@ -14,6 +14,8 @@ This «thing» is under construction... 🎨
 
 ⚡ Fun fact: I used to write poems some time ago
 
+You can view my resume <a href="https://pasichnadaryna.github.io/resume-project/">here</a>.
+
 
 Things I code with 👩‍💻
 <br/>
@@ -31,4 +33,4 @@ Things I code with 👩‍💻
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PasichnaDaryna)
 
 
-You can view my resume <a href="https://pasichnadaryna.github.io/resume-project/">here</a>.
+

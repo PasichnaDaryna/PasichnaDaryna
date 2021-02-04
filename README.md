@@ -29,3 +29,6 @@ Things I code with 👩‍💻
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=PasichnaDaryna)
+
+
+You can view my resume <a href="https://pasichnadaryna.github.io/resume-project/">here</a>.
